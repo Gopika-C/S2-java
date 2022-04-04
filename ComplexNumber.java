@@ -35,3 +35,4 @@ public class ComplexNumber{
 		temp1=temp1.sum(c1,c2);
 		System.out.println("Sum = "+temp1.real+" +i"+temp1.img);
 	}
+}
